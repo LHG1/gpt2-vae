@@ -1,0 +1,16 @@
+subject:DE L23 Making a Doctor's Appointment
+dialog:
+A: Hi, Lindsay’s office. May I help you?
+B: Yes, I want to make an appointment. 
+A: Are you ill right now?
+B: No, I just want to have a simple physical exam.
+A: Ok. The doctor may see you the day after tomorrow, which is Friday. Will you come in the morning?
+B: I will be on a business travel on Friday. Can you put it tomorrow? 
+A: Let me check the schedule. How about 9 am tomorrow morning? 
+B: Yes, 9 am is ok.
+A: May I have your name please? 
+B: Steven Black.
+A: Here you are. Will you have the blood test? 
+B: Yes.
+A: Then no breakfast before the blood test. I’ve rescheduled it at 8 am tomorrow morning.
+B: Thank you.

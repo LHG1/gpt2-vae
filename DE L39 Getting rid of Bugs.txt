@@ -1,0 +1,16 @@
+subject:DE L39 Getting rid of Bugs
+dialog:
+A: I found some roaches in my new apartment.
+B: How could that be? How long have you been living there, three or four days?
+A: Just a week.
+B: Did you check the rooms before you moved in?
+A: I did. It was tidy and clean.
+B: Maybe they are hidden in the pipes or somewhere else.
+A: I guess. So I called a pest control company for help. They have done poison and fumigation.
+B: Did it work?
+A: Yes. When I came back home, I saw a lot of roaches lying on the floor.
+B: Did you ask the reason?
+A: They say it’s due to the restaurant downstairs. They had a poor sanitation.
+B: Okay, you should talk to your landlord. This is not the right place to stay.
+A: You are right. And I have taken the pictures of those bugs. Want to have a look?
+B: Oh, no! This makes my skin crawl.

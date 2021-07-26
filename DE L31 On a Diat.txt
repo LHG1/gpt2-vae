@@ -1,0 +1,15 @@
+subject:DE L31 On a Diat
+dialog:
+A: Why are you eating so little? 
+B: I’m not that hungry.
+A: Is it my bad? I’m not good at cooking. Sorry.
+B: No, it’s not about your cooking. Actually, I’m on a diet. 
+A: Dieting? You are so slim. You don’t need that.
+B: But I’m putting on weight recently. I have to follow the dietitian’s suggestion if I want to lose 8 pounds before the National Day.
+A: Why is that?
+B: I will be my sister’s bridesmaid.
+A: You are not the bride. Your sister is. Why do you care? 
+B: I don’t want to embarrass my sister in front of the guests.
+A: Oh, I totally understand. I read about the mindful eating. Do you know that?
+B: Yes, that is popular.
+A: I’ll share it on my blog later today.

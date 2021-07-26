@@ -1,0 +1,12 @@
+subject:DE L64 Wedding and Marriage
+dialog:
+A: Have you ever attended a wedding? B: Sure, I have attended four times.
+A: Which one impressed you most?
+B: Let me think about it…Yeah, it reminds me of the wedding I attended last year.
+A: How was it?
+B:  It was my best friend’s  wedding, and I was lucky enough to be the bridesmaid.
+A: Cool. How did you feel?
+B: Amazing. It was my first time to be a bridesmaid. I was even more excited and nervous than the bride. Wearing a formal purple dress, I served the bride throughout the whole wedding ceremony, focusing on every detail to ensure it carry out smoothly.
+A: It seems that you played an important role.
+B: A little bit, but only to make the bride more gorgeous. 
+A: Well, that’s true.

@@ -1,0 +1,11 @@
+subject:DE L62 Optimistic and Pessimisti
+dialog:
+A: Hi, Belle.
+B: Hi, you look excited. What’s happened?
+A: Our school is going to hold a singing contest and I’ll sign up for it. It’s a good chance to show my singing talent.
+B: What’s the prize?
+A: As far as I know, an IPod will be awarded to the first prize winner. I’ll try my best to get it.
+B: What if you can’t？
+A: It doesn’t matter. Although I can’t get the IPod, I won’t lose anything, and it can enrich my contest experience.
+B: Wish you luck.
+A: Thanks.

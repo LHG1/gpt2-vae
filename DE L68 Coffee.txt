@@ -1,0 +1,12 @@
+subject:DE L68 Coffee
+dialog:
+A: Good morning, madam. What can I do for you?
+B: I’d like a cup of coffee please.
+A: Certainly madam. What kind of coffee would you like? 
+B: What have you got?
+A: Well, we have mocha, cappuccino, latte, blue mountain coffee and Irish coffee.
+B: What a choice! I think I’ll have a cup of mocha. 
+A: What size do you like?
+B: Regular size, please.
+A: Wait a moment, please…Here you are. You’ll find the sugar just over there. 
+B: Thanks.

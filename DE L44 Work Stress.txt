@@ -1,0 +1,11 @@
+subject:DE L44 Work Stress
+dialog:
+A: Why are you having the long face?
+B: I'm  getting sick of work. I can't take the office politics in the company anymore.
+A: Did you just get your assessment or something?
+B: Yeah, but that's not why I am upset. I just found out another guy get a promotion. He doesn't know how to do anything. He sits there and kisses the manager’s butt all day long.
+A: To tell you the truth, it is quite stressful here too. But look at the bright side. At least we have jobs.
+B: Yeah. I shouldn't stress about this anymore. 
+A: Exactly. Instead, we should have some fun. 
+B: How about a cold bottle of beer.
+A: Now you're talking.

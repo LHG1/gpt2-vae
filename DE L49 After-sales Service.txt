@@ -1,0 +1,12 @@
+subject:DE L49 After-sales Service
+dialog:
+A: Excuse me, are you the manager? 
+B: Yes, I am. What can I do for you?
+A: I bought the new silk scarf for my wife and when she washed it, the color faded.
+B: Really? Let me have a look. This kind of thing doesn’t usually happen.
+A: Yeah, it never happened to me before, but I guess there’s always the first time.
+B: I suppose so. So what would you like us to do for you?
+A: Dear madam, may I remind you that in front of your main entrance there is a sign: We give our customers satisfaction. I expect a little satisfaction.
+B: Yes, you are right. There is a sign over there. 
+A: How do you intend to solve this problem?
+B: Ok, sir. We are happy to exchange it for you or a full refund if you’d like.

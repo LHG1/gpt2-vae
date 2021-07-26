@@ -1,0 +1,16 @@
+subject:DE L11 Watching Movies
+dialog:
+A: Hello?
+B: Hey Tina. What are you doing?
+A: I was watching TV. What's going on with you? 
+B: I just watched a movie and I'm scared.
+A: What did you watch?
+B: I watched the Sixth Sense. I didn't know it was going to be so scary. 
+A: I remember that. It was a great movie. But it was definitely scary.
+B: If you're not busy, do you want to come over? I'm afraid to be alone. 
+A: Sure. I can come over. What should we do?
+B: How about if we watch a comedy. I need something to get my mind off the frightening images I have from the Sixth Sense.
+A: Ok. I'll get ready and leave. I'll see you in about 20 minutes. 
+B: Hurry, ok. It's getting dark outside.
+A: Don't worry, nothing’s going to happen. I'll be there very soon. 
+B: Ok. See you soon.

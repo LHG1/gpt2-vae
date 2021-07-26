@@ -1,0 +1,14 @@
+subject:DE L82 Office English 1
+dialog:
+A: Hi, Jim, how are you?
+B: Fine, thanks. I’d like to introduce you to my father. 
+A: All right.
+B: This is Jim, this is my father, he works for IBM for all his life. 
+C: Nice to meet you, boy.
+A: Nice to meet you, Mr. Clarke. 
+C: So what do you do?
+A: I work for IBM too, and I’m really into computers.
+A: I have a dream, Mr. Clarke. 
+C: Oh, what would that be?
+A: I hope I can work for IBM for all my life, just like you. 
+C: Oh, it’s my great pleasure to hear you to say so.

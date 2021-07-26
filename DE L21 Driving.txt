@@ -1,0 +1,12 @@
+subject:DE L21 Driving
+dialog:
+A: Are we there yet?
+B: No. Why are you asking?
+A: I’m hungry. We’ve been driving for a long time. We’d better find a restaurant to eat.
+B: I want to eat too but we are late. We have to keep driving.
+A: We’ve passed the same traffic lights three times already. I think we get lost. We should ask someone for directions.
+B: I don’t think so. We are not lost.
+A: Do you know where you are driving now? I’ve never gone this way before. 
+B: I’m on the right road. It’s faster than the highway.
+A: Will you drive a little slower? Did you see that sign? I think we should turn around.
+B: I didn’t see that. I’m getting tired. I’ll let you drive.

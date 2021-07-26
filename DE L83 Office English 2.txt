@@ -1,0 +1,10 @@
+subject:DE L83 Office English 2
+dialog:
+A: I don’t think you have met Professor Alex before, have you? 
+B: No, I haven’t had the pleasure.
+A: This is my friend and colleague Mark. This is Professor Alex, from  Columbia University.
+B: Pleased to meet you, Professor Alex. I know you by reputation, and I am very happy to have an opportunity to meet you finally.
+A: Professor Alex has come to our company to give us a series lectures on International Trade.
+B: I could be your guide if you need. 
+C: Really? That’s so kind of you!
+B:  Anytime. Just call me whenever you want to go out. Jenny has my cell  phone number.

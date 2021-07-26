@@ -1,0 +1,12 @@
+subject:DE L86 Joining a Party
+dialog:
+A: Hi, Jenny, I know you are a party queen. You know everything about all  kinds of parties. I’m a nerd. I  seldom go for a party. But recently I’m crazy   about a girl, and I know she’s going to the cocktail party this evening. Do you have any advice for me?
+B: You got the right person! I’m a specialist on that. First, you should get dressed well. Since it’s a formal party, black suits with a golden tie will make you impressive.
+A: Sounds good. What else do I need to pay attention to? 
+B: Well, be yourself and spontaneous are also important.
+A: Oh, I agree. But when I face the girl I like, I become nervous and don’t know what to say.
+B: You can start your conversation by giving a compliment on her dress, but don’t be too eager to please her.
+A: Oh, I never thought of that. I guess it’s the reason I always screw up on my first date with a girl.
+B: Flattery pleases girls, but over doing it will get the opposite result. 
+A: You really do me a big favor. I feel confident now.
+B: Great! Get yourself ready and you’ll make it!

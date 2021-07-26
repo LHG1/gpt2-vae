@@ -1,0 +1,12 @@
+subject:DE L1 Nice to Meet You
+dialog:
+A: Hi, I’m Jack. I’m from England. What’s your name?
+B: My name is Anny and I’m from China. 
+A: It is very nice to meet you.
+B: Nice to meet you too. What do you do? 
+A: I’m a football player. How about you?
+B: I’m a singer.
+A: Cool. I like singing, but I’m not good at that.
+B: I can teach you if you have time. 
+A: Really? That will be great!
+B: Let’s fix time to do it.

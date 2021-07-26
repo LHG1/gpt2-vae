@@ -1,0 +1,12 @@
+subject:DE L61 Let's Go to the Gym
+dialog:
+A: Hi, Zoe. You look really tired today. 
+B: Yes, I’m not that energetic as before.
+A: You’d better go with me to the gym to get your energy back. 
+B: Good idea. Which gym did you go to?
+A: I went to the one that is near my home. 
+B: What equipments are there in the gym?
+A: All kinds of equipments including swimming pool, too.
+B: Terrific! I would like to try the stair climber there. Do they have one? 
+A: Of course. You can even go with me to try the belly dance.
+B: Sounds great. Let’s go.

@@ -1,0 +1,13 @@
+subject:DE L42 Having a Party
+dialog:
+A: Did you buy the party favors? 
+B: Oh! I forgot that.
+A: I think you should go back to the party supply store before it closes. 
+B: I can buy those tomorrow.
+A: We don’t have so much time tomorrow. The party will begin at 2pm. 
+B: Are you sure we really need this party?
+A: It’s not for us. It’s for Betty. I want a perfect birthday party for her.
+B: We have balloons, noisy makers, a giant cake and party hats. I think that’s enough already.
+A: But we don’t have party favors.
+B: What else do you want? A clown? Or some confetti?
+A: You just reminded me. We do need  some  confetti. You buy the  party  favors and I prepare the confetti.

@@ -1,0 +1,14 @@
+subject:DE L37 Match Making
+dialog:
+A: Hey, you look so miserable. You have to forget her. 
+B: Who?
+A: Your ex. You need a date. How about taking my sister, Luka, to the movies this weekend?
+B: Thank you. But I don’t need a blind date. I’m not miserable, just worrying about my office work.
+A: Come on, you can’t fool me. You take this as a favor. My sister also broke up with her boy friend. No, ex-boyfriend.
+B: The truth is I’m not ready for another relationship. 
+A: I’m not asking you to marry her. Just a date.
+B: Still sounds weird to me.
+A: You don’t know what you are missing. She is pretty and nice. And she gets hit on a lot.
+B: Every time my friends want to set me up on a date, they always talk in this way.
+A: I know I cannot persuade you to do this, but do promise me you will think about it.
+B: I will.

@@ -1,0 +1,11 @@
+subject:DE L6 Date and Time
+dialog:
+A: Do you have the time?
+B: I don’t have a watch. I think it’s over 9 a.m. 
+A: 9 a.m. already? I need to go.
+B: You haven’t eaten your breakfast.
+A: I don’t have time. I haven’t finished my homework. 
+B: Don’t rush. Sit down and eat your breakfast.
+A: I’m late！
+B: Don’t freak out, today is Saturday! 
+A: Thank God.

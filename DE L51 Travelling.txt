@@ -1,0 +1,16 @@
+subject:DE L51 Travelling
+dialog:
+A: What are you up to this holiday?
+B: I’d like to travel to all the scenic spots in Beijing.
+A: That’s so exciting!
+B: What are you planning for your holiday? 
+A: I’m not sure. I have four days off.
+B: You can come with me.
+A: I have been thinking of going there.
+B: Just pack and fly there with me. I’m going there by air on January 6th. 
+A: I prefer to go to places with beautiful scenery.
+B: Beijing is the perfect choice. The snow and the Forbidden City, everything is beautiful.
+A: Right. We can stay in Beijing for three days. 
+B: Sounds great.
+A: My budget is 4000 Yuan. We can stay in youth hotel. 
+B: I like our holiday plan. Let me arrange my work first.

@@ -1,0 +1,15 @@
+subject:DE L20 Renting a House
+dialog:
+A: What kind of place do you want to rent? 
+B: We'd like a flat close to the university.
+A: What price can you accept?
+B: I heard there are places around 2000 Yuan a month.
+A: Yes, but most of them are unfurnished. B: Well I still want the furnished rooms.
+A: Here is a flat with two furnished bedrooms in a six-story building. It is cheap But it’s facing the main road.
+B: Do I have to pay the deposit?
+A: Yes, the owner requires a two-month deposit and one-month rent in advance.
+B: How much is the rent? 
+A: 1800 Yuan a month.
+B: May I have a look at the apartment today?
+A: Sorry, not available today. I’ll get the key tomorrow morning. Could  you  come tomorrow?
+B: All right. Keep in touch.

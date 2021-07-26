@@ -1,0 +1,13 @@
+subject:DE L99 Music Time
+dialog:
+A: It’s been a really busy week, what do you say we go to sing Karaoke? 
+B: Sounds great. Shall we ask Cindy to go with us?
+A: Ok, but you know, she is a microphone-hog.
+B: Do you often go to the KTV? You must be good at singing. 
+A: Not really. Most of my friends get scared when I’m singing. 
+B: I’m totally tone-deaf.
+A: What type of music do you like most? 
+B: Jazz. How about you?
+A: I prefer pop music.
+B: Oh, you must be a big fan of Beyonce.
+A: Yes, I’m crazy for her! I know all of her songs!

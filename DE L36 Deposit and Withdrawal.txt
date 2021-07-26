@@ -1,0 +1,15 @@
+subject:DE L36 Deposit and Withdrawal
+dialog:
+A: Good afternoon, sir. What can I do for you?
+B: I need a cash withdrawal from this account. Here is the card. 
+A: How much do you want to withdraw?
+B: 2000 Yuan.
+A: I’m afraid you cannot withdraw so much.
+B: But I have checked my balance at the ATM. There is 2000 Yuan left.
+A: Yes, there is, but you also have a minimum balance requirement in this  card.
+B: How much is that?
+A: 15 Yuan. You can withdraw 1975 Yuan at most at the moment.
+B: OK. Please help me do that and  then  deposit  all the money into  this  account.
+A: Sir, you don’t need the cash withdrawal. If you don’t mind, I will transfer the money directly into the other account.
+B: You are right. Thank you! Would you please print a copy of my bank statement?
+A: Sure. Wait a moment please.

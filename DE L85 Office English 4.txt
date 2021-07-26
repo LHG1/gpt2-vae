@@ -1,0 +1,10 @@
+subject:DE L85 Office English 4
+dialog:
+A: Jenny, I have a heavy stomachache.
+B: Really? Let me get  you some hot water. (After a while) Are you feeling  better now?
+A: No, I think I have to go to see a doctor.
+B: Ok, I’ll accompany you. But first, let’s take a sick leave from our manager. Wait me for a moment.
+A: Thank you, Jenny, you are kindhearted.
+B: Don’t mention it. I can understand you. I also have stomach problem. 
+A: Poor us. That’s why you know me.
+B: Definitely. Let’s go.

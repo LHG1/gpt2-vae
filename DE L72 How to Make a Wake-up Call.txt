@@ -1,0 +1,12 @@
+subject:DE L72 How to Make a Wake-up Call
+dialog:
+A: Good evening. This is Black Smith in Room 303. 
+B: Good evening, Mr. Smith. What can I do for you?
+A: I’m going to Tianjin early tomorrow morning. So I would like to book an early morning call.
+B: Sure, Mr. Smith, what time would you like us to call you tomorrow morning?
+A: Well, I’m not sure. But I have to be at the conference room of Hyatt Regency Tianjin by 10 o’clock. You wouldn’t know how long it takes to drive  to Tianjin from the hotel, would you?
+B: It’s about three to three and a half hours.
+A: That means I’ll have to be on the way at 7 o’clock. B: That’s right.
+A: Well, in that case, I would like you to call me at 5:45.
+B: Ok. So we will wake you up at 5:45 tomorrow morning. Good night, Mr. Smith. Have a good sleep.
+A: Thank you. Good night.

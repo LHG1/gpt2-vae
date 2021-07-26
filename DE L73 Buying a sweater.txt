@@ -1,0 +1,15 @@
+subject:DE L73 Buying a sweater
+dialog:
+A: Good morning. What can I do for you? 
+B: I’m looking for a sweater.
+A: Sure, this way please. What about this one? 
+B: It’s too big for me and I don’t like the color. 
+A: How about the white one? It looks great.
+B: Yeah, it looks better than that one. Can I try it on? A: Of course, our fitting room is over there.
+B: Well, it looks great on me. I like this one. How much is it? 
+A: It’s 800 Yuan.
+B: That’s a little expensive. Can I get a discount?
+A: I’m so sorry. It’s our new arrival so we don’t have any discounts. 
+B: Ok. Can I pay by credit card?
+A: Sure.
+B: I’ll take it.

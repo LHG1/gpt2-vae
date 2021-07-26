@@ -1,0 +1,12 @@
+subject:DE L58 Feelings towards a job
+dialog:
+A: How do you think of your job here, Linda?
+B: It’s interesting. I like being an editor. I like talking to writers. I get to meet lots of interesting people.
+A: I am happy to hear that, but publishing is more than just talking to writers.  It involves a lot of work, patience and responsibility. Most of the work is dull and boring.
+B: I don’t feel bored at all. I’m getting along well with my colleagues. I really enjoy working with them. People are great in this industry.
+A: Do you have any complaints?
+B: No, I have no complaints. I hear there are many opportunities to move up in this company. Is that true?
+A: Yes. You will have many opportunities to grow in this company as long as you have a good work performance.
+B: That’s perfect. I will definitely do well.
+A: Great! We need such colleagues like you. 
+B: Thank you for your compliment.

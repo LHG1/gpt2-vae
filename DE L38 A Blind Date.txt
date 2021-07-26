@@ -1,0 +1,18 @@
+subject:DE L38 A Blind Date
+dialog:
+A: Hi, are you Joe?
+B: Yes. You must be Luka!
+A: Sorry, I’m late. I have some trouble finding this place. 
+B: I hope you are not blaming me for that.
+A: No, I’m not. I thought Sheila booked this restaurant. Sorry, I mean it. 
+B: Just kidding. But I do have been here before with Sheila.
+A: With Sheila? Don’t tell me you two were dating before.
+B: Sure not. I wanted to introduce my friend to her at that time. 
+A: You set them up? Did they make it?
+B: No. Actually Sheila had a boyfriend. And I didn’t know about it.
+A: Yeah, that is a very “blind” date. You know, you are a good ice breaker. I was really nervous about this date.
+B: How about now?
+A: Much better. To tell the truth, I’m not big on this. 
+B: Yeah, me neither. But I’m glad I came.
+A: So am I.
+B: I didn’t believe in instant connection, you know. But now I do.

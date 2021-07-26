@@ -1,0 +1,14 @@
+subject:DE L8 Daily Life
+dialog:
+A: Good evening, Mr. Kong. 
+B: Good evening,.
+A: Welcome to our TV show. 
+B: Thank you.
+A: Can I ask you some questions? 
+B: Sure.
+A: What do you do in the afternoon? 
+B: I read books in the garden.
+A: Good. What about in the evening? 
+B: I watch TV with my wife.
+A: Sounds great.
+B: Yes. We like watching this soap opera together.

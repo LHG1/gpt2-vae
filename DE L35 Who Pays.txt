@@ -1,0 +1,14 @@
+subject:DE L35 Who Pays
+dialog:
+A: Good afternoon, Lucas! How’s your work? 
+B: Everything’s fine. What about you?
+A: Busy as usual. Do you have any plans this evening? 
+B: No at the moment.
+A: I will go eating buffet in the fifth floor of this building.
+B: That high-end buffet? I would like to but I’m really tired today. I want to  have a low-key evening.
+A: But I want to treat you.
+B: That’s so nice of you. But I don’t want to take any advantage of you.
+A: Oh come on! You helped me so much with my work. I want to thank you! 
+B: It is not necessary. Seriously, let’s go Dutch.
+A: How about this? I treat you today and you buy me a lunch next week. 
+B: Deal.

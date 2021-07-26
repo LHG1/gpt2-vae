@@ -1,0 +1,10 @@
+subject:DE L4 The Relationship between Colleagues
+dialog:
+A: What‘s up? Alice.
+B: Great! I have a new colleague. 
+A: Do you get along well?
+B: Yeah. She is so good at working with others. We work well together. 
+A: That’s good!
+B: We had a difficult project last week. And we worked together to get it done. 
+A: It’s very lucky of you to have a good partner.
+B: You bet！

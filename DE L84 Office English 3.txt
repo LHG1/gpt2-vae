@@ -1,0 +1,11 @@
+subject:DE L84 Office English 3
+dialog:
+A: Billy, you are late again.
+B: I’m sorry I’m late. I overslept. Is the manager here today? 
+A: Yes, he’s in his office.
+B: Oh, I hope he didn’t notice me.
+A: Don’t take any chances. It would be best if you tell him and promise not to be late again. He’s already mad at you for the last two times. If you do it again, he might fire you.
+B: You said it! It won’t happen again. Do you really think he’ll fire me? 
+A: I think he might. You’d better go to his office.
+B: You’re probably right. I’ll go right now and apologize. I try hard not to be late, but it is difficult with Beijing traffic, you know.
+A: Good luck.

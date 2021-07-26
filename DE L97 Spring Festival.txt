@@ -1,0 +1,13 @@
+subject:DE L97 Spring Festival
+dialog:
+A: Hi, Eva, recently I have been interested in Chinese culture. I heard about Spring Festival, in China you say “Year”. What does the word mean?
+B: The word “Year” in Chinese characters used to mean a horrible beast. 
+A: What does this stand for?
+B: A new beginning, an occasion to relax yourself after a year’s hard work, an occasion for family reunion and visiting friends, an occasion for enjoying tasty food and crazy shopping.
+A: Bunches of good things! I know that when New Year is approaching, every family will have a lot of things to do. How does your family prepare for it?
+B: First, sweeping “the dust”, which means a thorough cleaning of house. This is to sweep away bad luck in the past year. The custom shows a good wish of putting away old things, bidding farewell to the old year to welcome a new year.
+A: Interesting and meaningful! And why do people paste Spring Couplets and set off firecrackers?
+B: In ancient China, in order to fight the beast, Chinese hanged “Good Luck” wishes on red paper on the door and played fireworks because they believed that the beast was afraid of red and fire.
+A: What do you do on New Year’s Eve?
+B: We set off firecrackers, stay up late, watch the Spring Festival Gala to welcome New Year. We also have a big family reunion dinner on the Eve.
+A: What a fantastic festival!

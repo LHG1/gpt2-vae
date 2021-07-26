@@ -1,0 +1,11 @@
+subject:DE L53 Where did You Spend Your Money
+dialog:
+A: Oh, I only have 500 Yuan in my wallet. I just withdrew 2000 Yuan from my bank account.
+B: How did you spend so much money in five days?
+A: I don’t know. I had a big dinner with my co-workers and I went to pub a lot. 
+B: You need to make a budget. A budget is the most useful method to control how we spend money.
+A: I guess. I have to write down all the income and expenditure in a notebook, right?
+B: Yes. It helps us spend our money in a smarter way. 
+A: I need to decide which expenditure is necessary.
+B: You need to decide which expenditure is unnecessary! 
+A: Oh, all right.

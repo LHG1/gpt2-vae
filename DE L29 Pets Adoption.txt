@@ -1,0 +1,13 @@
+subject:DE L29 Pets Adoption
+dialog:
+A: We are going to bicycle this Sunday. Will you join us？
+B: I really want to but I have other plans，taking my dog for a vaccination. 
+A: Dog? I never heard you had a dog!
+B: Yes, I just adopted one, from the pets rescue center. 
+A: Oh, How sweet~~ is it a puppy or an adult dog?
+B: A puppy. Now I have to take care of her.
+A: Breeding a puppy is not that easy, it must be stressful. 
+B: It is. House-training is difficult.
+A: Why didn’t you adopt an older dog? It will be easier.
+B: Yes I know that. But my puppy is so adorable. I just can’t say no to her. 
+A: I see.

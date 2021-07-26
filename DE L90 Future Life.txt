@@ -1,0 +1,15 @@
+subject:DE L90 Future Life
+dialog:
+A: What do you think will life be like in ten years?
+B: I think it will be more exciting. The  technology is developing so fast that  we will have many new things in ten years.
+A: Absolutely, and more convenient. A lot of work will be done by robots. It saves us time and energy. And I think things will be electrical.
+B: What do you think will transportation be like in China in ten years?
+A: I think it will be more convenient. There will be more buses, subway trains and so on.
+B: I have a quite different opinion with you. I think the transportation will be even worse. There will be more traffic jams because the number of cars is increasing fast.
+A: How about the weather in ten years?
+B: It will be much worse. It will be much hotter because of the global warming. And natural disasters will happen more often.
+A: What will the population be like in ten years? 
+B: I think population of China will be over 2 billion.
+A: What will happen if we have such a large population in China?
+B: We won’t have enough resources, such as food, houses and so on.
+A: Oh, that’s too bad.

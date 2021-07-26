@@ -1,0 +1,14 @@
+subject:DE L15 laundry
+dialog:
+A: Hello, would you like your clothes washed?
+B: Yes, I smudged my shirt at lunch. Could you help me clean it? 
+A: Yes, let me have a look. There’s a large grease stain.
+B: I’m afraid it won’t come off.
+A: Don’t worry. We can wash it off.
+B: When can I pick it up? 
+A: Tomorrow afternoon.
+B: But I want to wear it tomorrow morning.
+A: We can make it a rush. But there’s an extra fee. 
+B: I understand. How much is that?
+A: 20 dollars. You can get it in an hour. 
+B: That would be great. See you then.

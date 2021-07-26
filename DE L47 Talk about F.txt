@@ -1,0 +1,14 @@
+subject:DE L47 Talk about F
+dialog:
+A: Cakes and candy contain too much sugar. Eating too much sweet food is bad to our health.
+B: I agree. We can eat less hamburger and French fries.
+A: I agree. Junk food has too much fat. But fish is good for our health. We can eat more fish.
+B: You are right!
+A: Salad contains a lot of vegetables and fruits. It’s healthy. 
+B: I think, yogurt, milk and cheese are also healthy food.
+A: We’d better try to avoid junk food and have a healthy lifestyle. 
+B: Absolutely right!
+A: Apart from this, we should eat less meat, more vegetables and fruit. They contain plenty of vitamins.
+B: But I like eating meat so much!
+A: That’s just my advice. You can follow your own way. 
+B: Sounds make sense.

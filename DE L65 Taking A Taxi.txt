@@ -1,0 +1,13 @@
+subject:DE L65 Taking A Taxi
+dialog:
+A: Taxi!
+B: Step in, please! Where would you like to go?
+A: Please drop me off at the railway station. We are going to catch a train. 
+B: Sorry, we’ve got stuck in a traffic jam.
+A: I will be delayed by the traffic jam! We are in a hurry, can you make a  detour?
+B: The traffic is always bad at rush hours.
+A: The road ahead is blocked. Can we get there before five? 
+B: No problem. Here we are, the railway station.
+A: Thank you. How much is it? Do you use the meter? 
+B: Yes. 28 dollars in total.
+A: Here you are. Please keep the change.

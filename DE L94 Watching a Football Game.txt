@@ -1,0 +1,14 @@
+subject:DE L94 Watching a Football Game
+dialog:
+A: Larry, this game is really important.
+B: I know! Who do you think will win? Germany or England?
+A: I can’t say…
+B: I agree, it’s hard to predict who will win. All I know is that I’m going to be on the edge of my seat the whole game.
+A: Yes, I think I will too. How about the Germany team uniforms you bought online?
+B: I’ve been waiting several weeks for it to come, but it hasn’t arrived yet. I hope it wouldn’t get lost.
+A: It can’t be. Maybe it will arrive this afternoon. Did you watch other sports? 
+B: Yeah a few, but for me, football is my favorite.
+A: But football matches make me anxious. Let’s watch the Voice first.
+B: No way! I’m more nervous when they announce the winner of the Voice. 
+A: I don’t know you are fan of the Voice.
+B: Well, you never know when you might learn something surprising about me.

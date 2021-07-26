@@ -1,0 +1,16 @@
+subject:DE L40 Asking about a Bill
+dialog:
+A: Good morning, Southern Power Call Center. How can I help you?
+B: Morning. I have a question about my electricity bill this month. The bill seemed too high.
+A: May I have your account number?
+B: I’m afraid I don’t have it with me now.
+A: Could you give me your full name please?
+B: It’s Serena Lin. S-e-r-e-n-a, Serena. L-I-N,Lin.
+A: Mrs. Lin, I have your account up on my computer now. According to the history, it is considerably higher than usual.
+B: I don’t think I have used any more electricity than before.
+A: Did you buy any new appliance?
+B: No.
+A: Okay. Mrs. Lin, I will mark this and get our electricians to check this.
+B: How long will that take?
+A: We will call you back within 48 hours. And I will give you another inquiry number.
+B: Thank you. I appreciate it so much.

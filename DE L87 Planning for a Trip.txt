@@ -1,0 +1,11 @@
+subject:DE L87 Planning for a Trip
+dialog:
+A: Hello, Amy, it’s the holiday next week. How about travelling together?
+B: That’s a great idea, Anna. Where are we going? How about visiting a big city? We can go shopping.
+A:  Oh, big cities are too boring. Let’s  go to the countryside. We can enjoy   the singing of birds and the beautiful views.
+B: Sounds amazing. I like the countryside too. What are we going to take with us?
+A: Cash, umbrella, comfortable shoes, food for animals… 
+B: And a camera. We are going to take many photos.
+A: Sure. Where are we going to stay? Are we going to book a hotel? 
+B: No, let’s stay in a tent. I have a nice tent.
+A: That’s cool!

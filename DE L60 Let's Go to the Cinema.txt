@@ -1,0 +1,11 @@
+subject:DE L60 Let's Go to the Cinema
+dialog:
+A:  I’m  really tired these days because of my work. How about going to a movie tonight?
+B: Oh, great.
+A: I like action movies very much. And you?
+B: I love romance. Let’s go to the cinema and check what movies we can watch.
+A: OK, let’s go.
+B: Shall we watch Titanic 3D? It must be very romantic.
+A: Oh, a romance? Ok, if you like， then let’s watch it. (Two hours later)
+B: How do you think of the movie? A: It is great. I saw you crying.
+B: Yes, I’m so touched by the sad story.

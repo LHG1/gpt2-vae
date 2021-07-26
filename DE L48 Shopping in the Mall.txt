@@ -1,0 +1,14 @@
+subject:DE L48 Shopping in the Mall
+dialog:
+A: How much is the skirt? 
+B: 49 dollars.
+A: It’s about 300 Yuan! It’s too expensive! Do you have anything cheaper? 
+B: OK. How about this handbag?
+A: No, it’s 40 dollars. That’s over my budget, too. What is the price of the chocolate?
+B: Let me have a look. It’s 2 dollars a bar, 10 dollars a box. 
+A: That’s cheap. I’ll take 2 boxes of the chocolate.
+B: That’s 20 dollars in total. Do you like to pay in cash or by credit card? 
+A: Cash. Here you are.
+B: I’ve got 50 dollars. Here’s your change. 30 dollars. 
+A: Thank you.
+B: You are welcome.
