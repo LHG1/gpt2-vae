@@ -1,0 +1,14 @@
+subject:DE L3 Complaints
+dialog:
+A: I’m going to move out of my flat. 
+B: Why? The flat is great!
+A: I can’t stand my roommate any more.
+B: What did he do?
+A: He likes to put his socks on the sofa. 
+B: Did he explain?
+A: Yes. But I said “No excuse”.
+B: You should share an apartment with a person who likes cleanness and tidiness.
+A: Yes, that’s very important.
+B: Hope your new roommate is good. 
+A: Of course! She’s my girlfriend!
+B: Wow, cool!

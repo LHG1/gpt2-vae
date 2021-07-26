@@ -1,0 +1,12 @@
+subject:DE L19 At the Barber's
+dialog:
+A: I want a new hairdo. I can show you on the magazine. 
+B: Oh, that is pretty. Do you want this style?
+A: Yes. Do you think it is suitable for me?
+B: You would look cute with short hair. Perhaps you should go even shorter
+A: I'll leave it up to you. As I said, I'm ready for a change.
+B: OK. You should really think about getting highlights in your hair, too.
+A: Do you think that would look good? I'm worried it will make my hair look unnatural.
+B: No, it won't. The highlights are very subtle. We can do a little bit this time. If you like it, we can do more next time.
+A: OK, I’ll take your advice. I count on you. By the way, how much do you charge for all these?
+B: Forty dollars in total.

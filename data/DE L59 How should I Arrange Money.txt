@@ -1,0 +1,11 @@
+subject:DE L59 How should I Arrange Money
+dialog:
+A: We need to figure out how much money we’ve spent and what we’re spending it on.
+B: Why?
+A: Well, I think we could be saving more. B: Really, well, OK. Get the receipts out.
+A: Let’s see…We spent 700 dollars for our house loan payment, 400 on groceries, 75 on utilities, 250 on gasoline, 100 on books and 300 on entertainment last month.
+B: That’s1825 dollars!
+A: We put 500 into the savings account, and 750 into our stock account.
+B: 3075. Our paychecks are 3300 combined. That means we don’t have any receipts for 225.
+A: Right.
+B: So we can spend money more wisely.

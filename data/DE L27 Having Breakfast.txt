@@ -1,0 +1,15 @@
+subject:DE L27 Having Breakfast
+dialog:
+A: Rosie, you need to hurry up. 
+B: Do we have some cornflakes?
+A: Yes, I put the box on the table. How would you like your eggs, boiled as usual?
+B: Boiled egg? Please! I don’t think I have enough time for a boiled egg.
+A: I’ll make scrambled ones. And what’s wrong with you? Are you getting up wrong side of the bed?
+B: Sorry Mom. I just feel nervous. It’s my first school day here. 
+A: No butter for the eggs?
+B: No, it tastes weird.
+A: OK, pass me the saltshaker.
+B: Here you are. Mom, do we have coffee? 
+A: Yes, still in the coffee machine.
+B: I’ll take the coffee, for you and Dad. 
+A: Thank you.

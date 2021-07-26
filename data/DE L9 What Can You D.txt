@@ -1,0 +1,12 @@
+subject:DE L9 What Can You D
+dialog:
+A: How are you today?
+B: Great, thanks. Can you play table tennis? 
+A: No, I can’t. And you?
+B: Yes, I can. I play it every day. I like sports. 
+A: Wow, can you play basketball?
+B: Yes, I can. How about you?
+A: I can’t. But I like dancing so much. 
+B: Dance? I want to learn!
+A: It’s easy. You can learn it well, since you like sports. 
+B: Maybe, I will try.

@@ -1,0 +1,12 @@
+subject:DE L7 Expressing Love
+dialog:
+A: How is it going, man？ 
+B: Pretty good. I met a girl.
+A: Oh, tell me more.
+B: I’m trying to make a pass at her. 
+A: What does she look like?
+B: She is not very tall, but she is hot. 
+A: Are you serious about her?
+B: I can’t stop thinking of her. God, I think I have a crush on her. 
+A: Oh, really? Are you going to express your love to her?
+B: I guess so.

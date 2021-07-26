@@ -1,0 +1,14 @@
+subject:DE L56 Demanding a Raise in Salary
+dialog:
+A: May I come in? 
+B: Come in, please.
+A: I’m sorry to trouble you, but I’d like to ask when I will get a raise. 
+B: In three month.
+A: You said the same thing three months ago.
+B: Did I? Well, anyway, you’ll get your raise when the economy starts picking up.
+A: You mean I won’t get a raise until the recession ends? 
+B: Yes.
+A: I get the message. I quit!
+B: No, don’t be so emotional. We like you to work here, but this company is on hard times, and I can’ t handle raises for anyone.
+A: I’ve been here for three years, and I haven’t had a raise all the time. If you acknowledge my work, it should be reflected in my pay.
+B: Well, I’ll consider that again.

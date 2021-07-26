@@ -1,0 +1,15 @@
+subject:DE L28 Opening an Account
+dialog:
+A: I want to open an account here.
+B: Do you have any account of our bank？
+A: Yes, I already have a checking account but no interest there.
+B: You can have the interest in the checking account but we will charge you some service fees.
+A: I know. That’s why I want another account, a saving account. 
+B: All right. You need to fill this form first.
+A: What’s your interest rate for saving accounts? 
+B: 2 percent a year.
+A: Is there a service charge?
+B: No. But you have to deposit at least 10 dollars in this account. 
+A: All right, I’m going to fill the form.
+B: Don’t forget your ID card.
+A: OK. Thank you. I’ll be right back.

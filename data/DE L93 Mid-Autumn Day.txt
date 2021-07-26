@@ -1,0 +1,16 @@
+subject:DE L93 Mid-Autumn Day
+dialog:
+A: Hi, Ann, can you tell me something about your Chinese traditional festival --- Mid-Autumn Day?
+B: Of  course. Mid-Autumn Festival is a traditional Chinese festival. It is  celebrated on the fifteenth day of  the eighth month by lunar calendar. It  is  said that the moon is at its brightest and fullest shape on Mid-Autumn Day.
+A: When did Chinese start to celebrate it?
+B: Yes, as long ago as Xia and Shang Dynasties, people have the custom of worshiping the moon (called xi yue in Chinese). It becomes very prevalent in Tang Dynasty.
+A: People eat moon cakes on Mid-Autumn Day, right?
+B: Yeah, in Song Dynasty, people sent round moon cakes to their relatives to express their wishes of family reunion.
+A: Do all Chinese people celebrate this festival in the same way?
+B: Not exactly. People in different parts of  China have different ways to  celebrate Mid-Autumn Festival.
+A: Really? How about in Guangzhou?
+B: In Guangzhou, a huge lantern show is a big attraction for local citizens. Thousands of different shaped lanterns are lit, forming a fantastic contrast with the bright moonlight.
+A: Fabulous! Is there any other special way to celebrate it?
+B: In east China, Zhejiang province, watching the flood tide of Qian tang River during the Mid-Autumn Festival is not only a must for local people, but also an attraction for those from other parts of the country. The ebb and flow of tides coincide with the waxing and waning of the moon.
+A: I’m looking forward to experiencing. 
+B: Sure, you will have the chance.

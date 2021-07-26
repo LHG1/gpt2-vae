@@ -1,0 +1,16 @@
+subject:DE L25 Going through Custom
+dialog:
+A: Hello, Sir, let me check your passport please. 
+B: Here it is.
+A: What is the purpose of your visit?
+B: It is my honeymoon. My wife has passed the green channel. 
+A: Then you must have something to declare.
+B: Yes, I carry some personal effects but I’m not sure. Do I have to declare these?
+A: Let me see. No, you don’t have to. 
+B: How about the fruits?
+A: The fruits are prohibited items. You have to leave them here. 
+B: OK, here you are.
+A: Do you have a return ticket? 
+B: Yeah.
+A: All right. It’s done. Happy honeymoon! 
+B: Thank you! Bye.

@@ -1,0 +1,16 @@
+subject:DE L16 Hotel Reservation
+dialog:
+A: Hello, New World Hotel, may I help you？ 
+B: Hi, I’d like to make a reservation.
+A: Ok, what date would you like please? 
+B: Do you have vacancies tonight?
+A: Sorry. The rooms are fully booked. We suggest customers make
+A: How many days will you plan to stay? 
+B: 2 nights. What is the rate?
+A: 55 dollars a night.
+B: Do you have internet access in the room?
+A: We have wireless and that’s for free. May I have your name, madam? 
+B: Nancy Wonderland.
+A: And your phone number？
+B: 4198 2648
+A: Ok, Your information has been kept in the system. See you tomorrow.

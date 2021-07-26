@@ -1,0 +1,12 @@
+subject:DE L66 Bad Habits
+dialog:
+A: Nicole, you’ve been watching TV for hours today. If you watch for one    more minute, I’ll cancel our tour to Disneyland tomorrow.
+B: Please, Dad! It’s Saturday today. You said I could watch more TV at weekends.
+A: But you should learn to protect your eyes, sweetie. By the way, you mustn’t read while lying in the bed starting from today.
+B: What about you smoking two packages of cigarettes a day, Dad?
+A: Oh, you’ve got me there. I promise I’ll try to smoke less and less from now on.
+B: Let’s make that a deal.
+A: All right. Oh, one more thing, you must brush your teeth before you go to bed every night.
+B: You can’t put your stocks in the living room！ 
+A: Well, Ok. You are becoming your mom!
+B: That’s because you are a “bad boy”!

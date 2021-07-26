@@ -1,0 +1,11 @@
+subject:DE L2 Seasons and Weather
+dialog:
+A: It’s cloudy.
+B: I think it is going to rain.
+A: I think so. It is always rainy and warm here in spring. 
+B: What is the weather like in spring in your hometown? 
+A: It is dry and hot in spring in my hometown.
+B: Where are you from? 
+A: I’m from Egypt.
+B: Nice to meet you.
+A: Nice to meet you too.

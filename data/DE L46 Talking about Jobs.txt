@@ -1,0 +1,15 @@
+subject:DE L46 Talking about Jobs
+dialog:
+A: Hi! How are you?
+B: Very good! What about you? 
+A: Great! May I know your name?
+B: My name is Jack. What’s your job? 
+A: I am an office worker. And you?
+B: I work as a sales manager.
+A: I want to introduce my sister to you.
+B: I would love to meet her. What does she do for a living? 
+A: She is a hairdresser.
+B: Do you like your job?
+A: Not really, it’s too tiring. The pressure builds up every day. 
+B: It doesn’t feel good.
+A: Yeah. The pressure is way too much, so I quit my job.

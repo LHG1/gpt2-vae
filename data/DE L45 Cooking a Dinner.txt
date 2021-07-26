@@ -1,0 +1,12 @@
+subject:DE L45 Cooking a Dinner
+dialog:
+A: It’s so nice of you for inviting me to the dinner. 
+B: I’m glad to. I hope you’ve brought your appetite. 
+A: You bet!
+B: Great! I made a three-course meal. Here is the first course, a light dressing salad.
+A: Um, tastes good.
+B: The main course will be steak. How would you like it cooked? 
+A: I want it medium well.
+B: Okay, I prepared the broccoli as accompaniments.
+A: By the way, I want some black pepper sauce to put on it. 
+B: As your wish.

@@ -1,0 +1,12 @@
+subject:DE L12 Buying a Cellphone
+dialog:
+A: Hello sir, may I help you?
+B: Yeah, I want to buy a new cell phone.
+A: I see. Well, budget? What’s your budget?
+B: I don’t want it to be too expensive, maybe something mid-range.
+A: You may look at this new smart phone. It comes with the Android OS so you can download applications.
+B: What about the camera?
+A: It has a built-in camera and a front camera too. The touch screen is working well. You can have a try.
+B: Hmmm, do you have iPhone 5?
+A: Yes, but it’s much more expensive. 
+B: I know but I still prefer apple system.

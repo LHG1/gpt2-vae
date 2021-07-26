@@ -1,0 +1,14 @@
+subject:DE L50 Invitation
+dialog:
+A: What’s up, Alice?
+B: Great. What are you going to do this Sunday? 
+A: Lisa and I are getting married.
+B: Congratulations.
+A: We’ll have the wedding in the church, will you come? 
+B: I would be delighted to attend your wedding.
+A: Will you tell Jack that I’d love to see him there？
+B: Sure, he will be there.
+A: The wedding is around 11 am. Then we will have lunch later. 
+B: It would be very nice to have lunch with you.
+A: Me too. See you then. 
+B: See you!

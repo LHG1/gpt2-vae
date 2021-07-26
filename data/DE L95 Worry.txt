@@ -1,0 +1,14 @@
+subject:DE L95 Worry
+dialog:
+A: Gerald, I just heard about your father. How is he doing?
+B: He’s in the hospital resting. The doctors haven’t given a clear answer yet.
+A: I’m so sorry to hear that. But this is a good  hospital. I’m sure they will do whatever they can.
+B: I hope so.
+A: You must feel worried right now. But you know your dad is a fighter.
+B: Yeah, I think my mom is the most worried. I’m worried about how she is doing.
+A: Where is she right now?
+B: She’s in the hospital with my dad. I have to go back tonight. 
+A: Hey, I’ll go with you.
+B: You don’t have to.
+A: It’s really no problem. I want to accompany you. 
+B: Ok. Thank you. Let’s go right after dinner.

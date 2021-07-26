@@ -1,0 +1,13 @@
+subject:DE L57 Talking about Environment
+dialog:
+A: Don’t throw the batteries into the garbage basket. 
+B: Why?
+A: Don’t you know that the battery is polluting? 
+B: I have no idea.
+A: It should be collected separately. There is a special box for it at the entrance of this department. Take them there.
+B: I see. When did you become an environmentalist?
+A: I’m not. Everybody should pay attention to the environmental protection. 
+B: I can’t agree with you anymore.
+A: We need to enhance our sense of environmental protection. 
+B: Absolutely.
+Are you a person with sense of environmental protection?

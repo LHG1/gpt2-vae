@@ -1,0 +1,16 @@
+subject:DE L17 Checking in at Hotel
+dialog:
+A: I'd like a double room for tonight. 
+B: Do you have a reservation?
+A: Yes. I called you yesterday on the phone. Nancy Woods.
+B: Wait a second, please. Yes, Mrs. Woods, we have a room reserved for you, two nights.
+A: That’s right. My husband will join me tomorrow. Then we’ll decide if we’ll extend the stay or not.
+B: Would you sign the register form, please?
+A: By the way, does my room have a private bath?
+B: Certainly. It also has a great view, facing the sea shore. I'm sure you'll like it. Where is your luggage?
+A: It’s at the bellboy’s.
+B: This is your keycard. It's on the eighth floor, room 801. 
+A: Thank you. Where is your restaurant?
+B: The restaurant is on the first floor, behind the lobby. You can either call room service.
+A: Thank you. You're very kind. 
+B: You're welcome.

@@ -1,0 +1,12 @@
+subject:DE L76 What's in Your Bag
+dialog:
+A: Hey, Michael, look at your new bag, it’s really cool. 
+B: Thanks. I bought it online and I like it so much.
+A: It’s really big. What do you usually have in your bag?
+B: Let me see, I usually have my wallet, an umbrella, some name cards, keys and my earphone with me. I like to listen to music on my way home.
+A: Oh, your bag must be very heavy.
+B: I think it’s ok. What about you, Celia?
+A: I don’t like big bags very much. I usually take my handbag with me. I have my make-up, my purse, some tissues and my keys in my handbag. You know, girls’ stuff.
+B: Yeah, girls tend to take some unnecessary things with them. 
+A: It seems that you know girls very well.
+B: Yeah, I’ve learned a lot from every girlfriend of mine.

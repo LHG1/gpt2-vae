@@ -1,0 +1,12 @@
+subject:DE L13 Clothes Shopping
+dialog:
+A: I like that blazer in the window.
+B: Wait a minute. I’m going to get it for you.
+A: May I try it on? 
+B: Sure.
+A: It’s a little bit oversize. How do you think?
+B: It looks great on you. This is size 38 and a classical cut. 
+A: I want to try a 36 anyway.
+B: Let me see. Sorry, we don’t have a 36 here, but we might have it in our other stores.
+A: Well, I think I’ll take 38 first. Can I exchange later when you get some 36 in? 
+B: With your receipt and clothing brand on the blazer, yes!

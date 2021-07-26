@@ -1,0 +1,15 @@
+subject:DE L70 Friendship
+dialog:
+A: Hi, Mary.
+B: Hey, Monica. It’s been so long. How is everything?
+A: I’m very well. You know I’ve been missing you these days. 
+B: Me too. Last time I called you, but no one answered.
+A: Oh, yes. I was very busy at that time. I’m so sorry.
+B: That’s ok. Look, I have a good idea. Tomorrow is Sunday, why don’t we go to watch a movie together?
+A: That’s great. I’d love to.
+B: Good. Let’s meet each other at the movie theatre tomorrow evening. 
+A: No problem. I will buy some popcorn and drinks.
+B: You are so nice. I love eating snacks too.
+A: Oh, it’s too late. I’ve got to go. See you tomorrow. 
+B: See you tomorrow. Have a nice day.
+A: You too.

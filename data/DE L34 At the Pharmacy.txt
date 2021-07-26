@@ -1,0 +1,14 @@
+subject:DE L34 At the Pharmacy
+dialog:
+A: Next! What can I help you, young man? 
+B: I want to fill this prescription.
+A: Ok, please follow the directions. Take the tablets three times a day on an empty stomach.
+B: I will.
+A: Anything else do you want?
+B: I’m also looking for some pills for my insomnia.
+A: Sorry we can’t sell that without your prescription. The sleeping pills are prescription drugs.
+B: I see. How about the pain relievers? Do you have any over-the-counter drugs?
+A: Yes, you can find them in that corner.
+B: How can I recognize the over-the-counter drugs? 
+A: With OTC logo on..
+B: Thank you.

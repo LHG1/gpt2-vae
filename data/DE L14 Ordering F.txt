@@ -1,0 +1,16 @@
+subject:DE L14 Ordering F
+dialog:
+A: Hello, Sir, welcome to Garden Restaurant. 
+B: I want to sit near the window.
+A: Right this way. Have a seat please. Would you like to order now?
+B: Yes, would you show me the menu? Hmm, I'd like a bowl of chicken soup, please.
+A: And what would you like for main course? 
+B: A grilled cheese sandwich.
+A: Would you like anything to drink?
+B: I’m not sure. Can you recommend something？
+A: Sure, we have wine, juice and soda.
+B: I think I’ll  have  some orange juice.
+A: Any dessert or appetizer? 
+B: No, I’m not that hungry.
+A: Ok, I’ll go place the order.
+B: Thank you.

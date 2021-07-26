@@ -1,0 +1,12 @@
+subject:DE L79 Go to Beach
+dialog:
+A: Joe, we’ll go to beach tomorrow. I’m so excited. We can hang out with our old friends for a whole day in such a wonderful place!
+B: Yeah, but before we set out, we should prepare some food. What do we need to buy?
+A: Let me think about it…five bags of bread, ten bottles of drink and some snacks such as potato chips and chocolate.
+B: Oh, and we can buy some fruit to make salad. It’s easy to do that. 
+A: Good idea. Besides food, what others do we need to take?
+B: Swimsuit, sunglasses, goggles, sunscreen are also necessary.
+A: Right, especially sunscreen! I don’t want my skin to be hurt by strong sunshine.
+B: Girls always care that. You should learn to enjoy sunshine in a relaxing mood.
+A: I want, but my skin is easy to get hurt without sunscreen. 
+B: Oh, I’m sorry to hear that.

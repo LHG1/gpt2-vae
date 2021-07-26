@@ -1,0 +1,20 @@
+subject:DE L92 Tenant and Landlor
+dialog:
+A: Excuse me, I want to rent an apartment. Are there any vacant apartments available?
+B: Yes, I have one to rent out.
+A: What’s your apartment like? 
+B: It’s a two-bedroom apartment. 
+A: How big is it?
+B: It’s about 80 square meters. 
+A: Does it come with a balcony?
+B: It does. And the ventilation is good. 
+A: Where is the location?
+B: It is located in Futian. 
+A: Is it furnished?
+B: It is fully furnished.
+A: Are there any bus stops in the neighborhood? 
+B: Of course. Traffic there is very convenient.
+A: How much is the monthly rent? And when is the rent due?
+B: It’s 2000 Yuan per month. And it’s due on the first day of every month. 
+A: Do I have to pay deposit?
+B: It’s one-month rent. And it’s a must.

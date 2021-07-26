@@ -1,0 +1,13 @@
+subject:DE L24 My Cell Phone Plan
+dialog:
+A: Did you spend your weekends in Beijing?
+A: Yep. How do you know that?
+A: I read your micro blogs. I’m following you.
+B: Oh, really, I don’t notice that. I did post some photos. 
+A: Did you post by your cell phone or computer?
+B: By the phone, I didn’t take my computer with me. 
+A: I thought it would cost a lot.
+B: Not really once you have a good cell phone data plan. It is 66 Yuan for 300 MB a month.
+A: What do you usually do with that?
+B: I post and update social media often. And I also visit the forum  sometimes. By the way, the plan covers another 200 minutes calling time too.
+A: That’s cool. I think I need a new cell phone plan.

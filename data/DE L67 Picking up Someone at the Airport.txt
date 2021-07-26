@@ -1,0 +1,12 @@
+subject:DE L67 Picking up Someone at the Airport
+dialog:
+A: Excuse me, are you Mr. Black from the International Trading Company? 
+B: Yes, I’m John Black.
+A: Allow me to introduce myself. My name is Lin Fang. I’m from P&G Corporation. I’m here to meet you.
+B: Glad to meet you.
+A: Me too. Did you have a nice flight, Mr. Black?
+B: Yes, the flight was smooth. The service was good, too. 
+A: Good. Do you have all your luggage here?
+B: Yes, it’s all here.
+A: We have a car over there to take you to your hotel. Let me help you with that suitcase.
+B: Thanks a lot.

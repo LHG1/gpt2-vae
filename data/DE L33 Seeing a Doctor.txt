@@ -1,0 +1,16 @@
+subject:DE L33 Seeing a Doctor
+dialog:
+A: What are your symptoms？
+B: I have a skin problem. Look at these red spots on my arms.
+A: Let me have a look. Is it itchy?
+B: Not at first. But then it got really itchy more and more and I tried not to  scratch them.
+A: How long have you been like this?
+B: Since last night. Is it an infection or something?
+A: What were you doing right before you started to have these? 
+B: Nothing special. I was watching TV and eating some fruits.
+A: What fruits did you have? 
+B: Some mangos.
+A: I think you are experiencing an allergy. 
+B: So I’m allergic to mangos?
+A: Right. Take this prescription. Rub some ointment right away and you’ll be better soon.
+B: Thank you, doctor.

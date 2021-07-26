@@ -1,0 +1,14 @@
+subject:DE L26 Arranging the Furniture
+dialog:
+A: Fred! Fred! Come and help me out!
+B: What are you doing? Why are you moving this coffee table?
+A: Jessie and Nick are coming for dinner. We are going to play X-box game here.
+A: But this table is a little bit in the way.
+A: Exactly. Let’s move it to the window.
+B: But there’s a sofa. Where do you want to place the sofa? 
+A: We can put the sofa in the bedroom.
+B: All right, let’s do it.
+A: Don’t drag it! It will mark up the floor. 
+B: Count to 3, lift it up.
+A: Wait, we have to move that sofa away. 
+B: I can do it myself. You have a break first.

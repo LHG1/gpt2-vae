@@ -1,0 +1,14 @@
+subject:DE L71 Halloween
+dialog:
+A: Can you tell me more about Halloween?
+B: Sure. Halloween is a popular holiday,  a  night-time festival for children  who play an important part while their parents support them.
+A: Why do you say so?
+B: There is a tradition on Halloween called “Trick-or treat”, which is for children on or around Halloween. They go from house to house in costumes, asking for candy,”Trick or treat?”The “trick” part of “trick or treat” is a threat to play a trick on the homeowners if no treat is given.
+A: Sounds interesting. So it’s a holiday just for children?
+B: No, it’s not totally for children. Actually, on Halloween, people thought that they would encounter ghosts if they left their homes, so they wore costumes that the ghosts couldn’t recognize them.
+A: Do you have any ideas of the origin of Halloween?
+B: Halloween began two thousand years ago in Ireland, England, and Northern France with the ancient religion of the Celts. This day marked the beginning of the dark, cold winter, the time of year that was often associated with human death.
+A: That’s fantastic! When is Halloween? 
+B: Well, it’s on October 31st
+A: Thank you for telling me so much. I’ve learned a lot. 
+B: My pleasure.

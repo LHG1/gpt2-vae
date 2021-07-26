@@ -1,0 +1,12 @@
+subject:DE L41 Answering the Phone
+dialog:
+A: Hello, Monica.
+B: Hi, Jane. Hello, can you hear me clearly? Hello? … (Hanging up and         calling again)
+A: Hello, Monica. It was disconnected just now. 
+B: Never mind. How are you these days?
+A: I am really busy taking care of my baby and you know, I only have seven
+B: So you can’t come back for holiday? What a pity!
+A: I know. I feel sorry, too. I really want to join the reunion of our schoolmates this year, but…
+B: OK, we understand. We will bring your wishes to our teachers too. Do not worry.
+A: That will be great. Thanks so much. 
+B: You are welcome, take care, Jane.

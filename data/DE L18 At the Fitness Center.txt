@@ -1,0 +1,15 @@
+subject:DE L18 At the Fitness Center
+dialog:
+A: My muscles are so sore today! 
+B: What did you do yesterday?
+A: I was doing exercises here, some running and weight lifting. 
+B: Do you see any improvement in your physique?
+A: That was my first time to do that here.
+B: Then you need a personal trainer. Seriously, doing the equipments exercises can be dangerous.
+B: Yes, I know. How often do you work out?
+A: I’m trying to do that 3 times a week. Sometimes I go jogging too. 
+B: Cool, maybe we can exercise together or play sports together.
+A: Sure. I booked a personal training session this evening. Are you coming? 
+B: I’m afraid I can’t. I’m an off –peak member.
+A: How about next Sunday morning, jogging in the park? 
+B: Ok, see you then.

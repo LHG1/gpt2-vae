@@ -1,0 +1,16 @@
+subject:DE L30 Bumping into an Old Frien
+dialog:
+A: Oh, Lee! Is that you?
+B: Wow, hi, Han. Long time no see.
+A: Yes, it’s been a long time. Last time I saw you we were in high school. 
+B: What are you doing here? I heard you were living in the South.
+A: Right. I come back for vacation. How are you? 
+B: Not bad. I took over my Dad’s supermarket.
+A: I understand. Family business.
+B: Don’t talk about me. Talk about you. I just can’t believe I’m bumping into  you here.
+A: Ha-ha, I came back to the city with my fiancé. We are staying in my parents’ house.
+B: Are you going to get married?
+A:  Probably, I don’t know. Will you come and visit? I want you to meet my fiancé.
+B: I will. I’m having a day off tomorrow. Give me your phone number. 
+A: 8824-2098.
+B: I have to go back to work. See you tomorrow.

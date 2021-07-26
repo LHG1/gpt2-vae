@@ -1,0 +1,15 @@
+subject:DE L32 Renting a Car
+dialog:
+A: I want to rent a car.
+B: Do you have a reservation？ 
+A: No.
+B: That’s all right. What kind of car do you want to rent? We have mid-sized  car, compact and minivan.
+A: Well, I want to visit the national park. What is your rate for a compact SUV? 
+B: 50 dollars a day, but you can have a discount for a week, 300 dollars.
+A: Then one week please.
+B: Do you want the insurance?
+A: No, thank you. My personal insurance has covered that.
+B: All right. Please show me your driving license and sign the contract. 
+A: Ok. Where do I get the car?
+B: Downstairs. This is the key and your contract. This SUV is with unlimited miles and the gas tank is full. Please fill up the tank when returning. Have a nice trip!
+A: Thank you! Bye!

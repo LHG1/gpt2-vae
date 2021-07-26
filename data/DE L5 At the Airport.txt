@@ -1,0 +1,12 @@
+subject:DE L5 At the Airport
+dialog:
+A: May I see your ticket and passport, please?
+B: Here you are.
+A: Would you prefer aisle seat or window seat?
+B: I want a window seat, please.
+A: Ok, sir. Do you have luggage?
+B: Just a briefcase and a handbag.
+A: You can take your belongings with you. The flight leaves from Gate 15. 
+B: When will the boarding start?
+A: Boarding starts at 9:45. Have a nice flight. 
+B: Thank you.

@@ -1,0 +1,11 @@
+subject:DE L75 TV Series
+dialog:
+A: Hey, Emily, how are you these days? B: Hello, Alfred, I’m really good. And you?
+A: Not bad. You know what, I have been watching an American TV series  and it’s called “Vampire Diaries”. It’s so exciting!
+B: Oh, I know that. It’s quite popular these days.
+A: Yeah, I like the actress so much. She is gorgeous!
+B: She is absolutely pretty. Hey, listen, I want to watch some Chinese TV series, do you have any recommendation?
+A: I suggest you watch “Love Apartment”. It’s like “Friends” of Chinese version, and it’s really interesting. I think you can also learn a lot of Chinese in it.
+B: Sounds great. I’ll give it a shot. 
+A: I’m sure you’ll like it.
+B: Thanks. I will check it out tonight. See you.

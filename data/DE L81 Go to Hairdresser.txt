@@ -1,0 +1,12 @@
+subject:DE L81 Go to Hairdresser
+dialog:
+A: Good afternoon, lady, how may I help you? 
+B: I want to have my hair permed and dyed.
+A: No problem. Could you please get your hair washed by our assistant? 
+B: Sure.
+A: Do you need hair conditioner? 
+B: Yes, please.
+A: What kind of hair style do you like?
+B: I want a shoulder length style with long bangs, just like the picture. 
+A: What color of your hair would you like?
+B: Please dye my hair into light brown.

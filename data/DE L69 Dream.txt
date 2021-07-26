@@ -1,0 +1,12 @@
+subject:DE L69 Dream
+dialog:
+A: What’s the matter? You look so tired. 
+B: I didn’t have a good sleep last night.
+A: I am so sorry to hear that. What’s the problem?
+B: I had a terrible dream that I was chased by a large dog and finally I was eaten by it.
+A: It was really a terrible dream.
+B: Yeah, I was so scared when I woke up this morning.
+A: Stir up. You had the dream maybe just  because you were too tired, and  you were under great pressure.
+B: Maybe you are right.
+A: So forget about it, everything will be fine. 
+B: Thank you very much.

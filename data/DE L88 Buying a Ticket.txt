@@ -1,0 +1,15 @@
+subject:DE L88 Buying a Ticket
+dialog:
+A: Hello, what can I do for you?
+B: I’m flying to Disney world next week, so I’d like some information on flights to Florida.
+A: Ok, I think I can get a good fare for you to Orlando, Florida. Do you want to go by first class, business or coach?
+B: Oh, coach of course. I’d like the lowest fare you can find. 
+A: One-way or roundtrip?
+B: Round trip. I’d like to leave on Sunday the 1st and return on Friday the 6th. 
+A: Well, there is a low fare on Sunday morning. It’s only 400 dollars.
+B: Nonstop?
+A: No, it’s not. You have transfer in Hong Kong. 
+B: That’s ok.
+A: Aisle seat or window seat? B: Window seat, please.
+A: Ok. That’s flight CA0909. It departs at 8 am Sunday morning and arrives in Orlando at 4 am local time on Monday morning.
+B: That sounds good. Thanks.

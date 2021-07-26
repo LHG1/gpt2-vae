@@ -1,0 +1,11 @@
+subject:DE L10 Can I help you
+dialog:
+A: Can I help you？
+B: Yes, I need a new coat. 
+A: How about this one?
+B: Oh, I think it’s pretty. Can I try it on？ 
+B: Sure, The fitting room is over there. 
+A: Thank you.
+B: Does it fit?
+A: Yes, it does. It’s nice.
+B: It looks very good on you.

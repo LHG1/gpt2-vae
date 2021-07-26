@@ -1,0 +1,12 @@
+subject:DE L91 Junk F
+dialog:
+A: Hi, Lily, we are surrounded by junk food nowadays. What junk food do you often eat?
+B: I like almost all kinds of junk food, like French fries, potato chips,  processed food, cream food, instant noodles and grilled food.
+A: Wow, you girls really like eating. How often do you have these? 
+B: I usually have these twice a week.
+A: That’s not a good habit. How do you feel without junk food? 
+B: I often feel tasteless when I eat other food.
+A: Lily, junk food is unhealthy, you’d better get rid of that habit. 
+B: I know! But I just can’t stop!
+A: If you know the result of eating too much junk food, you will quit the habit.
+B: Sounds serious. For the sake of my own health, maybe I should follow  your advice.

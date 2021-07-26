@@ -1,0 +1,15 @@
+subject:DE L54 Meeting New Friends
+dialog:
+A: Hi! My name is Peter, what’s your name? 
+B: I’m Jane. Nice to meet you.
+A: It’s my pleasure. This is a great party! 
+B: Yes, it is. Where are you from?
+A: I’m from Seoul.
+B: Seoul? So you are Japanese.
+A: No, I’m not Japanese. I’m Korean.
+B: Oh, you are Korean. Sorry about that. My geography lesson’s a mess at school.
+A: That’s ok. Where are you from?
+B: I’m from London. Excuse me, which city are you from? 
+A: Seoul, capital of South Korea.
+B: Oh, got it. So you speak Korean, right? 
+A: Yes, most residents do.

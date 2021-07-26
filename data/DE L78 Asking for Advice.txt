@@ -1,0 +1,12 @@
+subject:DE L78 Asking for Advice
+dialog:
+A: Hi, Bob. I hear you’re good at English. I want to improve my English very much. What should I do?
+B: Oh, Jimmy. It might be a good idea if you listen to and read English every day.
+A: I think so.
+B: And if I were you, I’ll do more speaking and writing practice. 
+A: You are right, I’ll try.
+B: For English learners, listening and speaking are essential and practical. So you’d better focus on the two points at the very beginning.
+A: I agree with you totally. But when I read English, I always meet some new words.
+B: You need to buy a Chinese-English dictionary, I think. It’s very useful for you.
+A: I’ll take your advice. Thanks a lot. 
+B: You are welcome.

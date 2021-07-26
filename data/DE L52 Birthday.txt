@@ -1,0 +1,12 @@
+subject:DE L52 Birthday
+dialog:
+A: It’s my birthday this Saturday. Are you available on Saturday? 
+B: I guess.
+A: I’d like you to come to my party.
+B: Thanks for your invitation. What are you going to do?
+A: I’m going to invite some close friends over to my house and play some board games.
+B: When and where is the party?
+A: Saturday night at 8 in my apartment.
+B: That’s great. Who else will come to the party? 
+A: Just some of my co-workers.
+B: I’m not quite sure because I will be busy working that day. I will try to make it to your party.

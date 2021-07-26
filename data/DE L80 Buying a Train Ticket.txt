@@ -1,0 +1,12 @@
+subject:DE L80 Buying a Train Ticket
+dialog:
+A: What time is the next train to New York? 
+B: It’s T945 at 9:26 pm.
+A: When does it get there?
+B: It gets there at 10:00 am tomorrow. 
+A: How much is the ticket?
+B: Sleeper or hard seat? 
+A: I prefer hard seat.
+B: It’s $80 one way or $140 round trip.
+A: A one way ticket please.
+B: Here you are. Have a nice trip.

@@ -1,0 +1,12 @@
+subject:DE L98 Smog Weather
+dialog:
+A: What type of weather is it these days in the north part of China? 
+B: Oh, it’s smoggy weather, especially in Beijing.
+A: What factors made that happen?
+B: Huge amount of pollutants are discharged into the air and there is no wind. 
+A: Where do the pollutants come from?
+B: Car emission, coal burning, construction sites and factories. 
+A: What can our country do to reduce this?
+B: Construction sites and factories should be asked to reduce their emissions. 
+A: What can we do?
+B: People should improve environmental protection awareness.

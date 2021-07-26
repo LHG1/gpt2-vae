@@ -1,0 +1,13 @@
+subject:DE L74 Keeping Pets
+dialog:
+A: Hey, Josh, do you like pets?
+B: Oh, I really do. I especially love parrots. 
+A: Really? Me too. But I also love dogs.
+B: I don’t like dogs, they always make such a big mess.
+A: Are you kidding me? Although they need to be cleaned, they are human’s best friends.
+B: I know, but they pup everywhere, bark every stranger who comes close to them.
+A: It’s your job to train them to behave better.
+B: Well, I love cats, because they will dig a hole before they want to use “bathroom”. I love them doing that.
+A: Yeah, cats are my favorite pets. I have two in my house, one is white, the other has stripes.
+B: I have a cat, too. But it always tends to steal my meat while I am answering the phone.
+A: Animals are always animals, you just have to get used to it.

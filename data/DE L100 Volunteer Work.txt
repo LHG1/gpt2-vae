@@ -1,0 +1,12 @@
+subject:DE L100 Volunteer Work
+dialog:
+A: Hi, Joe, why do you think we need more volunteers? 
+B: In order to build a harmonious society.
+A: What qualities do you think a good volunteer must have?
+B:  Be selfless. Don’t think about what you can do to help yourself. Think about what you can do to help others. What do you think?
+A: I think be well-trained is important as well. If you’re trained before you provide volunteer service, it will be much easier to help others.
+B: I agree. Be dependable is also needed. Do what you say you’ll do, and do your best. Don’t show up late, and always keep your promises. People will be relying on you so you don’t want to let them down.
+A: Yes, and be open-minded and be respectful are required quality. Always remember to show respect to other people and other cultures.
+B: Totally agree. Two points to add: be cooperative and be friendly. Work as part of a team to make sure everyone gets a chance to participate and do his or her fair share of work. Treat others like friends and they’ll do the same for you.
+A: If a volunteer owns these qualities we mentioned above, she or he must  be an excellent volunteer.
+B: Sure, and our society needs such kind of volunteers with high quality.

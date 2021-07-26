@@ -1,0 +1,12 @@
+subject:DE L77 What's Your Hobby
+dialog:
+A: What do you do in your spare time?
+B: Oh, nothing special. I read…watch TV…surf the internet.
+A: You really like staying at home. Don’t you enjoy outdoor activities?
+B: Not much, you know, I’m not interested in any sports, just like a turtle. How about you?
+A: Quite different from you, I’m crazy about sports. 
+B: Cool. What kind of sports do you like?
+A: Lots of, such as playing badminton, table tennis, basketball and shooting pool.
+B: Fantastic! You are definitely a sports girl!
+A: Yeah, I think sports make people healthy and energetic.
+B: True. Maybe I should be engaged in more outdoor activities to keep healthy.

@@ -1,0 +1,12 @@
+subject:DE L63 Plans for Vacation
+dialog:
+A: National Day is coming. We will have a ten-day vacation. How do you want to spend it?
+B: I’ve made up my mind to travel to the Philippines with my whole family.
+A: Oh, really? I once read an article about the beaches there. It was said that they are considered the most beautiful beaches on earth.
+B: Yes, definitely. That’s why we choose to go there. I think we will have a wonderful time.
+A: I can’t help screaming just imagine the amazing beach! 
+B: You’d better experience by yourself sometime.
+A: Let me start to make a schedule. 
+B: Yeah, it is worthy of doing that.
+A: By the way, be sure to bring back some photos and show them to me. 
+B: Of course, I will.

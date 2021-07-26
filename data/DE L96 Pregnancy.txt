@@ -1,0 +1,13 @@
+subject:DE L96 Pregnancy
+dialog:
+A: Are you getting any good sleep?
+B: I was sleepy all day long at the first three months, but now it’s hard for me to fall asleep.
+A: My suggestion is that lean against bedhead when you sleep. How is your appetite?
+B: Not good since I have the morning sickness, but I still try to eat more for the babies.
+A: That’s the right choice. Do you have other problems? 
+B: Yes. I am having a bit of back pain.
+A: Don’t worry about it. You are too tired for carrying a pair of twins. 
+B: Is there anything I can do to make this easier?
+A: Only after you give birth. Do you want to know the gender of your babies?
+B: No, please don’t tell me. I like surprise. Just tell me how my babies are  doing.
+A: They are pretty good there.

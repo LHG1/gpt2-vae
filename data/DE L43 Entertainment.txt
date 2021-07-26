@@ -1,0 +1,13 @@
+subject:DE L43 Entertainment
+dialog:
+A: Hey Dale. What are you doing?
+B: Watching TV.
+A: Anything interesting on?
+B: Not really. Just the commercials. 
+A: So you must be pretty bored too.
+B: Yes. I’m killing time until the football game begins. What are you up to?
+A: I don’t know. It’s Saturday night. I don’t like staying at home doing nothing. What’s wrong with us?
+B: Do you want to shoot some hoops?
+A: I tried to call up some of the guys, but they all got things to do.
+B: I know a nice bar to grab a drink. And we can watch football game there. 
+A: Great! We get drunk tonight.

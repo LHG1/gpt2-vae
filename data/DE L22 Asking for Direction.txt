@@ -1,0 +1,12 @@
+subject:DE L22 Asking for Direction
+dialog:
+A: Excuse me, I’m afraid I can’t ’find an ATM. Do you know where I can find one?
+B: Well, there are a few banks nearby. Which are you looking for? 
+A: Any nearest one. My bankcard is available on all ATMs.
+B: OK, that would be easy. There is one in this  block. You can go straight this road until the second traffic lights. Turn left and go on.
+A: Do you know what the name of that street is?
+B: I think it’s Lily Street. You are walking on the Lily Street until you see the intersection. Now you are close.
+A: So I just have to walk straight to the intersection.
+B: Yes. Four roads meet there. You just go ahead across the zebra crossing. You’ll see the bank.
+A: Is it easy to look for?
+B: Yes, just about 20 yards away from the intersection. You can’t miss it.

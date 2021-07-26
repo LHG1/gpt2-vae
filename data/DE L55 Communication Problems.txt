@@ -1,0 +1,12 @@
+subject:DE L55 Communication Problems
+dialog:
+A: Hilton hotel. How may I help you? 
+B: Yes, I’d like to book a room.
+A: Would you like a room with queen-sized or king-sized bed?
+B: What? I can’t follow you. I’m neither a queen nor a king, I am a gentleman, and I don’t need any queen-sized or king-sized bed. What’s your meaning?
+A: Oh, I’m sorry, but if you please allow me, I can explain. 
+B: Of course.
+A: Queen-sized bed is a large bed and king-sized bed is an extra large bed. You should be very tall, I guess, so I ask your size of bed first.
+B: Oh, really sorry. I apologize to you.
+A: Not at all. Welcome to our hotel. Enjoy your stay. 
+B: Thank you. I will.
